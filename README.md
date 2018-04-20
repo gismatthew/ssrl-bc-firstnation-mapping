@@ -7,8 +7,8 @@ Previously work was done for 3 (sic from Winston) first nation communities led b
 - Project Agreement can be found at
 `//Server/David/BCGIS/data/Agreements/TSI_SSRL Agreement for Services BC First Nation January 2018.pdf`
 - Communities to be mapped
+  - [ ] Saulteau First Nations (work on this first)
   - [ ] West Moberly First Nations
-  - [ ] Saulteau First Nations
 
 - Mapping request from David
   - [ ] David: a rough map or two showing total food weight by zone
