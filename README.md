@@ -6,39 +6,39 @@ Maps in David's slides need to be updated with latest dataset for the 2 first na
 
 ### Tasklist
 - 2 sets of maps for now
-  - [] SFN
-  - [] WMFN
+  - [ ] SFN
+  - [ ] WMFN
 - Next phase:
-  - [] McLeod FN
-  - [] total of 3 FNs
+  - [ ] McLeod FN
+  - [ ] total of 3 FNs
 - Maps required
   - Total Harvest by Percentage and Weight
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - SFN Total Harvest of Large Mammals
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Total Harvest of Small Mammals by Percentage
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Total Harvest of Fish by Percentage and Weight
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Total Harvest of Birds by Percentage
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Areas Used for Berry and Plant Harvesting
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Concentration/Distribution of Cabins and Camps
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Areas No Longer Used
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
   - Hotspots maps for all harvest
-    - [] SFN
-    - [] WMFN
+    - [ ] SFN
+    - [ ] WMFN
 
 ### Data
 
@@ -74,21 +74,21 @@ Here are David's comments he made in our meeting on May 1st, about the dataset a
   - fish maps:
     - they catch fish and some release due to potential pollution
   - household map
-    - [] use zone# instead of household#
+    - [ ] use zone# instead of household#
     - houses/huts are mainly used as base of hunting and recreation activity
     - raw data: more camps than cabins
-  - [] multiple zones
+  - [ ] multiple zones
     - if 2 next to each other, split them
     - if too big, (David) say > 4 grids, put a note, "undisclosed location"
-  - [] plants
+  - [ ] plants
       - table shows all details (each spp)
       - map: berry picking, plant etc.
   - WMFN, SFN, combined, another community (McCloud) data coming soon
-  - [] household# and their geolocation
+  - [ ] household# and their geolocation
     - social network map
   - some data on Alberta
     - to show on maps
-  - [] food exchange
+  - [ ] food exchange
     - spp exchange
     - red going out caribou, blue going back salmon, distinguish by lines
   - more data coming
